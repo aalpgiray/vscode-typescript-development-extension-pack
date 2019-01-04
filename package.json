@@ -2,6 +2,7 @@
   "name": "typescript-development",
   "displayName": "Typescript Development",
   "publisher": "aalpgiray",
+  "repository": "https://github.com/aalpgiray/vscode-typescript-development-extension-pack",
   "description": "",
   "version": "0.0.1",
   "engines": {
