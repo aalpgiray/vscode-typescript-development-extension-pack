@@ -1,6 +1,6 @@
 # Typescript Development Pack
 
-This pack includes visual studio code extensions that I find useful for Typescript development.
+[This pack](https://marketplace.visualstudio.com/items?itemName=aalpgiray.typescript-development) includes visual studio code extensions that I find useful for Typescript development.
 
 ## Included Extensions
 
