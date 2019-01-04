@@ -52,10 +52,6 @@ The Docker extension makes it easy to build, manage and deploy containerized app
 - Debug .NET Core applications running in Linux Docker containers
 - [Working with docker](https://code.visualstudio.com/docs/azure/docker) will walk you through many of the features of this extension
 
-### [Move TS - Move TypeScript files and update relative imports](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
-
-Supports moving typescript files and updating relative imports within the workspace.
-
 ### [Visual Studio IntelliCode - Preview](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 The Visual Studio IntelliCode extension provides AI-assisted productivity features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
